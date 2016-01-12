@@ -1,0 +1,28 @@
+name: VirtualAssistant
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.7734604997094721
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4343228617217392
+  lightness: 0.37897408404387534
+  saturation: 0.9903074535541236
+  rhythmicContrast: 0.7736816457472742
+purpose: []
