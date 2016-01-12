@@ -1,8 +1,7 @@
 name: VirtualAssistant
 favicon: null
-layout_spectrum: 0.74639
-typography_spectrum: 0.75
-title: Virtual Administration Assistance
+layout_spectrum: 0.47363492590375245
+typography_spectrum: 0.7734604997094721
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a79c9a'
-    - '#191814'
-    - '#74675e'
-    - '#5b322c'
-    - '#af7e6d'
-  brandStrength: 0.5625
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.75
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4343228617217392
+  lightness: 0.37897408404387534
+  saturation: 0.9903074535541236
+  rhythmicContrast: 0.7736816457472742
 purpose: []
