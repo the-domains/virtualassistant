@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VirtualAssistant]]></title>
+        <description><![CDATA[VirtualAssistant]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 11:04:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who am I?]]></title>
+            <description><![CDATA[<article><h1>Who am I?</h1><p>A British University Graduate (MA) with 5 years experience working for a financial adviser as a personal assistant (P.A). Plus 6 years experience as administrator for a small family niche tour business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87d63e9863fc28d853bd4863777b78cbeb964799.jpg"></article>]]></description>
+            <link>undefined561d3fcf-33d1-4a55-b446-cf4870ece09b/index.html</link>
+            <guid isPermaLink="false">561d3fcf-33d1-4a55-b446-cf4870ece09b</guid>
+            <pubDate>Tue, 12 Jan 2016 11:03:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
