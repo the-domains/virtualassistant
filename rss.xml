@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[VirtualAssistant]]></title>
         <description><![CDATA[VirtualAssistant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/virtualassistant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 11:04:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 11:09:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/virtualassistant/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Competitive Rates]]></title>
+            <description><![CDATA[<article><h1>Competitive Rates</h1><p>I can offer competitive rates for my services because I am based at home, and in Jordan. My services can help companies improve their image and professionalism when communicating with other businesses without needing to employ an expensive ex-pat on location.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22759f7cdb72de5642044ec0166f1780c642b63b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/virtualassistant/5fb3e8a5-4128-42dc-8502-9bd7cf55aac4/index.html</link>
+            <guid isPermaLink="false">5fb3e8a5-4128-42dc-8502-9bd7cf55aac4</guid>
+            <pubDate>Tue, 12 Jan 2016 11:08:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who am I?]]></title>
             <description><![CDATA[<article><h1>Who am I?</h1><p>A British University Graduate (MA) with 5 years experience working for a financial adviser as a personal assistant (P.A). Plus 6 years experience as administrator for a small family niche tour business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87d63e9863fc28d853bd4863777b78cbeb964799.jpg"></article>]]></description>
-            <link>undefined561d3fcf-33d1-4a55-b446-cf4870ece09b/index.html</link>
+            <link>https://thegrid.ai/virtualassistant/561d3fcf-33d1-4a55-b446-cf4870ece09b/index.html</link>
             <guid isPermaLink="false">561d3fcf-33d1-4a55-b446-cf4870ece09b</guid>
             <pubDate>Tue, 12 Jan 2016 11:03:47 GMT</pubDate>
         </item>
