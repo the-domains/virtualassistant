@@ -1,7 +1,7 @@
 name: VirtualAssistant
 favicon: null
-layout_spectrum: 0.74639
-typography_spectrum: 0.75
+layout_spectrum: 0.49368
+typography_spectrum: 0.24819
 title: null
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a79c9a'
-    - '#191814'
-    - '#74675e'
-    - '#5b322c'
-    - '#af7e6d'
-  brandStrength: 0.625
+    - '#181411'
+    - '#342c29'
+    - '#684c36'
+    - '#987556'
+    - '#d5a461'
+  brandStrength: 1
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.25
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
