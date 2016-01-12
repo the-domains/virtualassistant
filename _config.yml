@@ -1,7 +1,7 @@
 name: VirtualAssistant
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.99188
+layout_spectrum: 0.24278
+typography_spectrum: 0.75
 cta:
   domain: null
   bucket: null
