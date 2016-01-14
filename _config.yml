@@ -1,6 +1,6 @@
 name: VirtualAssistant
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74819
 typography_spectrum: 0.24819
 title: null
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.6875
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
