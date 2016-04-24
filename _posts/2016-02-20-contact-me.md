@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-20T07:20:16.881Z'
-dateModified: '2016-02-20T07:20:02.931Z'
-title: 'Contact Me:'
+description: 'e-mail: thevirtualassistanteast@outlook.com'
+datePublished: '2016-04-24T15:47:40.877Z'
+dateModified: '2016-04-24T15:47:37.855Z'
+title: ''
 author: []
+sourcePath: _posts/2016-02-20-contact-me.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-contact-me.md
-published: true
+starred: false
 _type: Blurb
 
 ---
