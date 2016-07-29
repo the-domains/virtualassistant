@@ -6,14 +6,14 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'e-mail: thevirtualassistanteast@outlook.com'
-datePublished: '2016-07-29T20:14:29.521Z'
-dateModified: '2016-07-29T18:59:10.994Z'
+datePublished: '2016-07-29T20:57:04.011Z'
+dateModified: '2016-07-29T20:47:33.184Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-20-contact-me.md
+via: {}
 authors: []
 publisher: {}
-via: {}
 starred: false
 _type: Blurb
 
