@@ -1,21 +1,21 @@
 ---
-datePublished: '2016-08-19T19:25:28.162Z'
+datePublished: '2016-08-19T19:25:50.866Z'
 sourcePath: _posts/2016-02-20-contact-me.md
 inFeed: true
-isBasedOnUrl: null
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T19:25:26.803Z'
+dateModified: '2016-08-19T19:25:48.858Z'
 title: 'CONTACT:'
 publisher: {}
 description: 'e-mail: thevirtualassistanteast@outlook.com'
 inLanguage: null
 inNav: false
 starred: false
-_type: Blurb
+url: contact/index.html
+_type: Article
 
 ---
 # CONTACT:
