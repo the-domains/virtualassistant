@@ -28,6 +28,9 @@ navigation:
   - name: 'RATES:'
     id: 5fb3e8a5-4128-42dc-8502-9bd7cf55aac4
     type: content
+  - name: 'CONTACT:'
+    id: bcc7b8ee-ed71-4956-b2cd-16af89fd21e3
+    type: content
 favicon: null
 title: ''
 description: ''
