@@ -1,23 +1,25 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-keywords: []
-description: 'e-mail: thevirtualassistanteast@outlook.com'
-datePublished: '2016-07-29T21:02:57.783Z'
-dateModified: '2016-07-29T20:57:10.567Z'
-title: ''
-author: []
+datePublished: '2016-08-19T15:07:14.481Z'
 sourcePath: _posts/2016-02-20-contact-me.md
-via: {}
+inFeed: true
+isBasedOnUrl: null
 authors: []
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-19T15:07:13.176Z'
+title: 'CONTACT:'
 publisher: {}
+description: 'e-mail: thevirtualassistanteast@outlook.com'
+inLanguage: null
+inNav: false
 starred: false
 _type: Blurb
 
 ---
+# CONTACT:
+
 **e-mail: thevirtualassistanteast@outlook.com**
 
 Files can be received by e-mail for working on, and will be sent back by e-mail. I also have dropbox and can receive, work on and share files this way.
