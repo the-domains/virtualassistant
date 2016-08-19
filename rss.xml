@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheVirtualAssistant]]></title>
+        <description><![CDATA[TheVirtualAssistant]]></description>
+        <link>https://thegrid.ai/virtualassistant/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 19:28:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/virtualassistant/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WHO NEEDS ME?]]></title>
+            <description><![CDATA[<article><h1>WHO NEEDS ME?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8463eb0362ec0d6ae5b7d75799b218db3d388c42.jpg"></article>]]></description>
+            <link>https://thegrid.ai/virtualassistant/who-needs-me/index.html</link>
+            <guid isPermaLink="false">1431b690-6b7a-4641-b39e-cf866cf1559d</guid>
+            <pubDate>Fri, 19 Aug 2016 19:28:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CONTACT:]]></title>
+            <description><![CDATA[<article><h1>CONTACT:</h1><p>e-mail: thevirtualassistanteast@outlook.com</p></article>]]></description>
+            <link>https://thegrid.ai/virtualassistant/contact/index.html</link>
+            <guid isPermaLink="false">bcc7b8ee-ed71-4956-b2cd-16af89fd21e3</guid>
+            <pubDate>Fri, 19 Aug 2016 19:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RATES:]]></title>
+            <description><![CDATA[<article><h1>RATES:</h1><p>I offer competitive rates for my services because I am based at home, and in Jordan. My services can help non Western Companies or individuals improve their image and professionalism when communicating with Western Companies or individuals without needing to employ an expensive ex-pat on location.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec3f2c0337727abc4ae0ed9fa7dcab543525c4c7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/virtualassistant/rates/index.html</link>
+            <guid isPermaLink="false">5fb3e8a5-4128-42dc-8502-9bd7cf55aac4</guid>
+            <pubDate>Fri, 19 Aug 2016 15:24:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
