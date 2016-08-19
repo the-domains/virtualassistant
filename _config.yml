@@ -1,20 +1,4 @@
-name: TheVirtualAssistant
-favicon: null
-layout_spectrum: 0.74819
 typography_spectrum: 0.24819
-title: Virtual Administration Assistance
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74098200-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#a79c9a'
@@ -26,4 +10,21 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74819
+analytics:
+  google: UA-74098200-1
+  facebook: null
+  twitter: null
+name: TheVirtualAssistant
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Virtual Administration Assistance
+description: 'Integrity, Reliable, Fast'
 purpose: []
