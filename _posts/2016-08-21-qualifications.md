@@ -1,17 +1,16 @@
 ---
 description: ''
-dateModified: '2016-08-21T06:54:27.552Z'
-datePublished: '2016-08-21T06:55:38.355Z'
+dateModified: '2016-08-21T06:56:04.979Z'
+datePublished: '2016-08-21T06:56:06.052Z'
 title: 'Qualifications:'
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-21-qualifications.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: qualifications/index.html
+_type: Blurb
 
 ---
 # Qualifications:
