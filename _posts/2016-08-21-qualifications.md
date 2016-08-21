@@ -1,13 +1,13 @@
 ---
-description: ''
-dateModified: '2016-08-21T06:56:04.979Z'
-datePublished: '2016-08-21T06:56:06.052Z'
-title: 'Qualifications:'
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-21T07:12:27.405Z'
 sourcePath: _posts/2016-08-21-qualifications.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-21T07:12:26.022Z'
+title: 'Qualifications:'
+publisher: {}
+description: 'Typing Speed: 60 wpm'
 starred: false
 url: qualifications/index.html
 _type: Blurb
@@ -15,16 +15,18 @@ _type: Blurb
 ---
 # Qualifications:
 
+Typing Speed: 60 wpm
+
 ### University:
 
 * 2008: Post Graduate Diploma: Residential Landscape Design at Oxford College of Garden Design, U.K. Grade: **Distinction**
 * 2005: Bachelor of Arts: Art at The University of Reading, U.K. Grade: **2:1**
 
-### Higher Education: A-levels - June 2000
-
 * Classical Civilisation. Grade: **A**
 * Art and Design. Grade: **B**
 * English Literature. Grade: **C**
+
+### Higher Education: A-levels - June 2000
 
 GCSE's - Summer 1998
 
