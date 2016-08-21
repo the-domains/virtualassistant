@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-21T07:39:30.087Z'
+datePublished: '2016-08-21T07:40:00.052Z'
 sourcePath: _posts/2016-08-21-qualifications.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T07:39:29.224Z'
+dateModified: '2016-08-21T07:39:59.171Z'
 title: 'Qualifications:'
 publisher: {}
 description: 'Typing Speed: 60 wpm'
