@@ -34,9 +34,6 @@ navigation:
   - name: WHO NEEDS ME?
     id: 1431b690-6b7a-4641-b39e-cf866cf1559d
     type: content
-  - name: 'Qualifications:'
-    id: c6d3c367-b6f2-4075-a223-5705131a9e41
-    type: content
 favicon: null
 title: ''
 description: ''
